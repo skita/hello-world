@@ -1,8 +1,4 @@
 hello-world
 ===========
 
-Just another repository
-
-Inserting edits.
-
-Can we put this through a pull request?
+Just another repository, but it keeps getting better and better.
